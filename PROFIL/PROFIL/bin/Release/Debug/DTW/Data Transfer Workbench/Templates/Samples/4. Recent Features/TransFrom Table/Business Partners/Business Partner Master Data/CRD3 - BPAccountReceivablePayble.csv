@@ -1,0 +1,3 @@
+ParentKey,LineNum,AccountCode,AccountType
+CardCode,LineNum,AccountCode,AccountType
+C001,0,_SYS00000000010,10

@@ -1,0 +1,5 @@
+ParentKey,LineNum,DueDate,CheckNumber,BankCode,Branch,AccounttNum,Details,Trnsfrable,CheckSum,Currency,CountryCode,CheckAccount,ManualCheck
+DocNum,LineNum,LineID,DueDate,CheckNum,BankCode,Branch,AcctNum,Details,Trnsfrable,CheckSum,Currency,CountryCod,CheckAct
+1,0,20050212,301,BOA,900,100-3443-7867,,,66285.3,,US,_SYS00000000002,
+2,0,20050212,301,BOA,900,100-3443-7867,,,66285.3,,US,_SYS00000000002,
+3,0,20050212,301,BOA,900,100-3443-7867,,,66285.3,,US,_SYS00000000002,

@@ -1,0 +1,5 @@
+ItemCode,WarehouseCode,Counted
+ItemCode,WhsCode,Counted
+A00001,1,1000
+A00001,1,1
+A00001,1,2

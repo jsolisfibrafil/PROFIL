@@ -1,0 +1,591 @@
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\bin\Debug\PROFIL.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\bin\Debug\PROFIL.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\bin\Debug\PROFIL.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.Form1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.MDIPROFIL.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.SplashScreen1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\bin\Debug\PROFIL.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\bin\Debug\PROFIL.application
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.TrustInfo.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.application
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.frmEmpl.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.frmItem.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\bin\Release\PROFIL.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\bin\Release\PROFIL.application
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\bin\Release\PROFIL.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\bin\Release\PROFIL.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\bin\Release\PROFIL.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.Form1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.frmEmpl.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.frmItem.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.MDIPROFIL.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.SplashScreen1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.TrustInfo.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.application
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.frmBase.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.frmBase.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.frmOrdprod.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.frmOrdprod.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.frmRecprod.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.frmRecprod.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.frmplanifprod.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.frmBase2.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.frmBase2.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.frmplanifprod.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.frmList.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.frmConsulta.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.frmPneg.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.frmWHS.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.frmConsulta.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.frmPneg.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.frmWHS.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.frmLISTPLAN.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.frmLISTPLAN.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.frmList.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.frmMain.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.frmMain.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Debug\PROFIL.AboutBox1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\PROFIL\PROFIL\obj\Release\PROFIL.AboutBox1.resources
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.exe
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.xml
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.pdb
+E:\PROFIL\PROFIL\bin\Debug\PROFIL.exe.manifest
+E:\PROFIL\PROFIL\bin\Debug\PROFIL.application
+E:\PROFIL\PROFIL\bin\Debug\PROFIL.exe
+E:\PROFIL\PROFIL\bin\Debug\PROFIL.pdb
+E:\PROFIL\PROFIL\bin\Debug\PROFIL.xml
+E:\PROFIL\PROFIL\obj\Debug\ResolveAssemblyReference.cache
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.AboutBox1.resources
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.Form1.resources
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.frmBase2.resources
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.frmConsulta.resources
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.frmEmpl.resources
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.frmItem.resources
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.frmBase.resources
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.frmList.resources
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.frmLISTPLAN.resources
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.frmMain.resources
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.frmOrdprod.resources
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.frmplanifprod.resources
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.frmPneg.resources
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.frmRecprod.resources
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.frmWHS.resources
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.MDIPROFIL.resources
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.Resources.resources
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.SplashScreen1.resources
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.vbproj.GenerateResource.Cache
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.TrustInfo.xml
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.exe.manifest
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.application
+E:\PROFIL\PROFIL\bin\Release\PROFIL.exe.manifest
+E:\PROFIL\PROFIL\bin\Release\PROFIL.application
+E:\PROFIL\PROFIL\bin\Release\PROFIL.exe
+E:\PROFIL\PROFIL\bin\Release\PROFIL.pdb
+E:\PROFIL\PROFIL\bin\Release\PROFIL.xml
+E:\PROFIL\PROFIL\obj\Release\ResolveAssemblyReference.cache
+E:\PROFIL\PROFIL\obj\Release\PROFIL.AboutBox1.resources
+E:\PROFIL\PROFIL\obj\Release\PROFIL.Form1.resources
+E:\PROFIL\PROFIL\obj\Release\PROFIL.frmBase2.resources
+E:\PROFIL\PROFIL\obj\Release\PROFIL.frmConsulta.resources
+E:\PROFIL\PROFIL\obj\Release\PROFIL.frmEmpl.resources
+E:\PROFIL\PROFIL\obj\Release\PROFIL.frmItem.resources
+E:\PROFIL\PROFIL\obj\Release\PROFIL.frmBase.resources
+E:\PROFIL\PROFIL\obj\Release\PROFIL.frmList.resources
+E:\PROFIL\PROFIL\obj\Release\PROFIL.frmLISTPLAN.resources
+E:\PROFIL\PROFIL\obj\Release\PROFIL.frmMain.resources
+E:\PROFIL\PROFIL\obj\Release\PROFIL.frmOrdprod.resources
+E:\PROFIL\PROFIL\obj\Release\PROFIL.frmplanifprod.resources
+E:\PROFIL\PROFIL\obj\Release\PROFIL.frmPneg.resources
+E:\PROFIL\PROFIL\obj\Release\PROFIL.frmRecprod.resources
+E:\PROFIL\PROFIL\obj\Release\PROFIL.frmWHS.resources
+E:\PROFIL\PROFIL\obj\Release\PROFIL.MDIPROFIL.resources
+E:\PROFIL\PROFIL\obj\Release\PROFIL.Resources.resources
+E:\PROFIL\PROFIL\obj\Release\PROFIL.SplashScreen1.resources
+E:\PROFIL\PROFIL\obj\Release\PROFIL.vbproj.GenerateResource.Cache
+E:\PROFIL\PROFIL\obj\Release\PROFIL.TrustInfo.xml
+E:\PROFIL\PROFIL\obj\Release\PROFIL.exe.manifest
+E:\PROFIL\PROFIL\obj\Release\PROFIL.application
+E:\PROFIL\PROFIL\obj\Release\PROFIL.exe
+E:\PROFIL\PROFIL\obj\Release\PROFIL.xml
+E:\PROFIL\PROFIL\obj\Release\PROFIL.pdb
+E:\PROFIL\PROFIL\obj\Debug\PROFIL.frmOP2.resources
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.exe
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.xml
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.pdb
+H:\PROFIL\PROFIL\bin\Debug\PROFIL.exe.manifest
+H:\PROFIL\PROFIL\bin\Debug\PROFIL.application
+H:\PROFIL\PROFIL\bin\Debug\PROFIL.exe
+H:\PROFIL\PROFIL\bin\Debug\PROFIL.pdb
+H:\PROFIL\PROFIL\bin\Debug\PROFIL.xml
+H:\PROFIL\PROFIL\obj\Debug\ResolveAssemblyReference.cache
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.AboutBox1.resources
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.Form1.resources
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.frmBase2.resources
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.frmConsulta.resources
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.frmEmpl.resources
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.frmItem.resources
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.frmBase.resources
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.frmList.resources
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.frmLISTPLAN.resources
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.frmMain.resources
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.frmOP2.resources
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.frmOrdprod.resources
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.frmplanifprod.resources
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.frmPneg.resources
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.frmRecprod.resources
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.frmWHS.resources
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.MDIPROFIL.resources
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.Resources.resources
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.SplashScreen1.resources
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.vbproj.GenerateResource.Cache
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.TrustInfo.xml
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.exe.manifest
+H:\PROFIL\PROFIL\obj\Debug\PROFIL.application
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.exe
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.xml
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.pdb
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\bin\Debug\PROFIL.exe.manifest
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\bin\Debug\PROFIL.application
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\bin\Debug\PROFIL.exe
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\bin\Debug\PROFIL.pdb
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\bin\Debug\PROFIL.xml
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.AboutBox1.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.Form1.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmBase2.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmConsulta.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmEmpl.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmItem.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmBase.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmList.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmLISTPLAN.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmMain.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmOP2.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmOrdprod.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmplanifprod.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmRecprod.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmWHS.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.MDIPROFIL.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.Resources.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.SplashScreen1.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.vbproj.GenerateResource.Cache
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.TrustInfo.xml
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.exe.manifest
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.application
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\bin\Release\PROFIL.exe.manifest
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\bin\Release\PROFIL.application
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\bin\Release\PROFIL.exe
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\bin\Release\PROFIL.pdb
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\bin\Release\PROFIL.xml
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.AboutBox1.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.Form1.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.frmBase2.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.frmConsulta.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.frmEmpl.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.frmItem.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.frmBase.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.frmList.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.frmLISTPLAN.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.frmMain.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.frmOP2.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.frmOrdprod.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.frmplanifprod.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.frmPneg.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.frmRecprod.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.frmWHS.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.MDIPROFIL.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.Resources.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.SplashScreen1.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.vbproj.GenerateResource.Cache
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.TrustInfo.xml
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.exe.manifest
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.application
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.exe
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.xml
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.pdb
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmReport.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.R1.rpt
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.exe
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.xml
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.pdb
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\bin\Debug\PROFIL.exe.manifest
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\bin\Debug\PROFIL.application
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\bin\Debug\PROFIL.exe
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\bin\Debug\PROFIL.pdb
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\bin\Debug\PROFIL.xml
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.R1.rpt
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.AboutBox1.resources
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.Form1.resources
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmBase2.resources
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmConsulta.resources
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmEmpl.resources
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmItem.resources
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmBase.resources
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmList.resources
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmLISTPLAN.resources
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmMain.resources
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmOP2.resources
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmOrdprod.resources
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmplanifprod.resources
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmPneg.resources
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmRecprod.resources
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmReport.resources
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmWHS.resources
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.MDIPROFIL.resources
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.Resources.resources
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.SplashScreen1.resources
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.vbproj.GenerateResource.Cache
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.TrustInfo.xml
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.exe.manifest
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.application
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmEntregas.resources
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmEntregas.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmAddCodebars.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.exe
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.xml
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.pdb
+F:\PROFIL\PROFIL\obj\Debug\ResolveAssemblyReference.cache
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.R1.rpt
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.AboutBox1.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.Form1.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.frmAddCodebars.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.frmBase2.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.frmConsulta.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.frmEmpl.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.frmEntregas.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.frmItem.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.frmBase.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.frmList.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.frmLISTPLAN.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.frmMain.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.frmOP2.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.frmOrdprod.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.frmplanifprod.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.frmPneg.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.frmRecprod.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.frmReport.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.frmWHS.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.MDIPROFIL.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.Resources.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.SplashScreen1.resources
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.vbproj.GenerateResource.Cache
+F:\PROFIL\PROFIL\bin\Debug\PROFIL.exe.manifest
+F:\PROFIL\PROFIL\bin\Debug\PROFIL.application
+F:\PROFIL\PROFIL\bin\Debug\PROFIL.exe
+F:\PROFIL\PROFIL\bin\Debug\PROFIL.pdb
+F:\PROFIL\PROFIL\bin\Debug\PROFIL.xml
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.TrustInfo.xml
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.exe.manifest
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.application
+F:\PROFIL\PROFIL\obj\Debug\PROFIL.cr_guia.rpt
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.cr_guia.rpt
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmAddCodebars.resources
+C:\Documents and Settings\SISTEMAS\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.cr_etiqueta.rpt
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.cr_etiqueta.rpt
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.cr_guia.rpt
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.vbproj.ResolveComReference.cache
+D:\profil\PROFIL\bin\Debug\PROFIL.exe.manifest
+D:\profil\PROFIL\bin\Debug\PROFIL.application
+D:\profil\PROFIL\bin\Debug\PROFIL.exe
+D:\profil\PROFIL\bin\Debug\PROFIL.pdb
+D:\profil\PROFIL\bin\Debug\PROFIL.xml
+D:\profil\PROFIL\obj\Debug\ResolveAssemblyReference.cache
+D:\profil\PROFIL\obj\Debug\PROFIL.vbproj.ResolveComReference.cache
+D:\profil\PROFIL\obj\Debug\PROFIL.cr_etiqueta.rpt
+D:\profil\PROFIL\obj\Debug\PROFIL.cr_guia.rpt
+D:\profil\PROFIL\obj\Debug\PROFIL.R1.rpt
+D:\profil\PROFIL\obj\Debug\PROFIL.AboutBox1.resources
+D:\profil\PROFIL\obj\Debug\PROFIL.Form1.resources
+D:\profil\PROFIL\obj\Debug\PROFIL.frmAddCodebars.resources
+D:\profil\PROFIL\obj\Debug\PROFIL.frmBase2.resources
+D:\profil\PROFIL\obj\Debug\PROFIL.frmConsulta.resources
+D:\profil\PROFIL\obj\Debug\PROFIL.frmEmpl.resources
+D:\profil\PROFIL\obj\Debug\PROFIL.frmEntregas.resources
+D:\profil\PROFIL\obj\Debug\PROFIL.frmItem.resources
+D:\profil\PROFIL\obj\Debug\PROFIL.frmBase.resources
+D:\profil\PROFIL\obj\Debug\PROFIL.frmList.resources
+D:\profil\PROFIL\obj\Debug\PROFIL.frmLISTPLAN.resources
+D:\profil\PROFIL\obj\Debug\PROFIL.frmMain.resources
+D:\profil\PROFIL\obj\Debug\PROFIL.frmOP2.resources
+D:\profil\PROFIL\obj\Debug\PROFIL.frmOrdprod.resources
+D:\profil\PROFIL\obj\Debug\PROFIL.frmplanifprod.resources
+D:\profil\PROFIL\obj\Debug\PROFIL.frmRecprod.resources
+D:\profil\PROFIL\obj\Debug\PROFIL.frmReport.resources
+D:\profil\PROFIL\obj\Debug\PROFIL.frmWHS.resources
+D:\profil\PROFIL\obj\Debug\PROFIL.MDIPROFIL.resources
+D:\profil\PROFIL\obj\Debug\PROFIL.Resources.resources
+D:\profil\PROFIL\obj\Debug\PROFIL.SplashScreen1.resources
+D:\profil\PROFIL\obj\Debug\PROFIL.vbproj.GenerateResource.Cache
+D:\profil\PROFIL\obj\Debug\PROFIL.TrustInfo.xml
+D:\profil\PROFIL\obj\Debug\PROFIL.exe.manifest
+D:\profil\PROFIL\obj\Debug\PROFIL.application
+D:\profil\PROFIL\obj\Debug\PROFIL.exe
+D:\profil\PROFIL\obj\Debug\PROFIL.xml
+D:\profil\PROFIL\obj\Debug\PROFIL.pdb
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmInformes.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmPedSAP.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmInItem.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\bin\Debug\PROFIL.exe.manifest
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\bin\Debug\PROFIL.application
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\bin\Debug\PROFIL.exe
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\bin\Debug\PROFIL.pdb
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\bin\Debug\PROFIL.xml
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.cr_etiqueta.rpt
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.cr_guia.rpt
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.R1.rpt
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.AboutBox1.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmAddCodebars.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmBase2.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmConsulta.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmEmpl.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmEntregas.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmInformes.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmInItem.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmItem.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmBase.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmList.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmLISTPLAN.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmMain.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmOP2.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmOrdprod.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmPedSAP.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmplanifprod.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmPneg.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmRecprod.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmReport.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.frmWHS.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.MDIPROFIL.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.SplashScreen1.resources
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.TrustInfo.xml
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.exe.manifest
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.application
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.exe
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.xml
+C:\Documents and Settings\Administrador\Escritorio\PROFIL\PROFIL\obj\Debug\PROFIL.pdb
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.cr_packing.rpt
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\Interop.CrystalActiveXReportViewerLib102.dll
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.vbproj.ResolveComReference.cache
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.cr_etiqueta.rpt
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.cr_guia.rpt
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.cr_packing.rpt
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.R1.rpt
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.frmAddCodebars.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.frmEntregas.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.frmInformes.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.frmInItem.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.frmPedSAP.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.frmReport.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\bin\Debug\ConectionDLL.pdb
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\bin\Debug\ConectionDLL.xml
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\bin\Release\itextsharp.dll
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\bin\Release\ConectionDLL.pdb
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\bin\Release\ConectionDLL.xml
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\bin\Release\Interop.CrystalActiveXReportViewerLib102.dll
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmprod2.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\obj\Release\PROFIL.frmprod2.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\bin\Debug\PROFIL.exe.manifest
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\bin\Debug\PROFIL.application
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\bin\Debug\PROFIL.exe
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\bin\Debug\PROFIL.pdb
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\bin\Debug\PROFIL.xml
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\bin\Debug\ConectionDLL.pdb
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\bin\Debug\ConectionDLL.xml
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.vbproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.cr_etiqueta.rpt
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.cr_guia.rpt
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.cr_packing.rpt
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.R1.rpt
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.AboutBox1.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.Form1.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmAddCodebars.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmBase2.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmConsulta.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmEmpl.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmEntregas.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmInformes.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmInItem.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmItem.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmBase.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmList.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmLISTPLAN.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmMain.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmOP2.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmOrdprod.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmPedSAP.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmplanifprod.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmprod2.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmRecprod.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmReport.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.frmWHS.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.MDIPROFIL.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.Resources.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.SplashScreen1.resources
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.TrustInfo.xml
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.exe.manifest
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.application
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.exe
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.xml
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\obj\Debug\PROFIL.pdb
+C:\Users\Usuario\Desktop\PROFIL\PROFIL\bin\Debug\PROFIL.exe.config
+D:\PROFIL\PROFIL\bin\Debug\PROFIL.exe.config
+D:\PROFIL\PROFIL\bin\Debug\ConectionDLL.pdb
+D:\PROFIL\PROFIL\bin\Debug\ConectionDLL.xml
+D:\PROFIL\PROFIL\obj\Debug\PROFIL.cr_packing.rpt
+D:\PROFIL\PROFIL\obj\Debug\PROFIL.frmInformes.resources
+D:\PROFIL\PROFIL\obj\Debug\PROFIL.frmInItem.resources
+D:\PROFIL\PROFIL\obj\Debug\PROFIL.frmPedSAP.resources
+D:\PROFIL\PROFIL\obj\Debug\PROFIL.frmprod2.resources
+C:\Users\Alfredo\Desktop\PROFIL\PROFIL\bin\Debug\PROFIL.exe.config
+D:\PROFIL\PROFIL\obj\Debug\PROFIL.frm_planxTurno.resources
+D:\PROFIL\PROFIL\obj\Debug\PROFIL.frm_anulaCODE.resources
+D:\PROFIL\PROFIL\obj\Debug\PROFIL.frm_OP_to_SAP.resources
+D:\PROFIL\PROFIL\bin\Debug\Aspper.Barcode.NET.dll
+D:\PROFIL\PROFIL\obj\Debug\PROFIL.frm_rotulados.resources
+D:\PROFIL\PROFIL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\DESARROLLO\PROFIL\PROFIL\bin\Debug\PROFIL.exe.config
+D:\DESARROLLO\PROFIL\PROFIL\bin\Debug\PROFIL.exe.manifest
+D:\DESARROLLO\PROFIL\PROFIL\bin\Debug\PROFIL.application
+D:\DESARROLLO\PROFIL\PROFIL\bin\Debug\PROFIL.exe
+D:\DESARROLLO\PROFIL\PROFIL\bin\Debug\PROFIL.pdb
+D:\DESARROLLO\PROFIL\PROFIL\bin\Debug\PROFIL.xml
+D:\DESARROLLO\PROFIL\PROFIL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\ResolveAssemblyReference.cache
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.vbproj.ResolveComReference.cache
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.cr_etiqueta.rpt
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.cr_guia.rpt
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.cr_packing.rpt
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.R1.rpt
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.AboutBox1.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.Form1.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frmAddCodebars.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frmConsulta.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frmEmpl.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frmEntregas.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frmInformes.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frmInItem.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frmItem.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frmList.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frmLISTPLAN.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frmMain.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frmOP2.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frmPedSAP.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frmplanifprod.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frmRecprod.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frmReport.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frmWHS.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frm_anulaCODE.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frm_OP_to_SAP.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frm_planxTurno.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frm_rotulados.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.MDIPROFIL.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.Resources.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.SplashScreen1.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.vbproj.GenerateResource.Cache
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.TrustInfo.xml
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.exe.manifest
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.application
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.exe
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.xml
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.pdb
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frm_reimpresion.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frm_prodMasiva.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.cr_packalm.rpt
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frm_GR_to_SAP.resources
+D:\DESARROLLO\PROFIL\PROFIL\bin\Release\PROFIL.exe.config
+D:\DESARROLLO\PROFIL\PROFIL\bin\Release\PROFIL.exe.manifest
+D:\DESARROLLO\PROFIL\PROFIL\bin\Release\PROFIL.application
+D:\DESARROLLO\PROFIL\PROFIL\bin\Release\PROFIL.exe
+D:\DESARROLLO\PROFIL\PROFIL\bin\Release\PROFIL.pdb
+D:\DESARROLLO\PROFIL\PROFIL\bin\Release\PROFIL.xml
+D:\DESARROLLO\PROFIL\PROFIL\bin\Release\ConectionDLL.dll
+D:\DESARROLLO\PROFIL\PROFIL\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\DESARROLLO\PROFIL\PROFIL\bin\Release\ConectionDLL.pdb
+D:\DESARROLLO\PROFIL\PROFIL\bin\Release\ConectionDLL.xml
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\ResolveAssemblyReference.cache
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.vbproj.ResolveComReference.cache
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.cr_packalm.rpt
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.cr_etiqueta.rpt
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.cr_guia.rpt
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.cr_packing.rpt
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.R1.rpt
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.AboutBox1.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frm_GR_to_SAP.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.Form1.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frmAddCodebars.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frmBase2.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frmConsulta.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frmEmpl.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frmEntregas.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frmInformes.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frmInItem.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frmItem.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frmBase.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frmList.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frmLISTPLAN.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frmMain.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frmOP2.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frmOrdprod.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frmPedSAP.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frmplanifprod.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frmRecprod.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frmReport.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frmWHS.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frm_anulaCODE.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frm_OP_to_SAP.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frm_planxTurno.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frm_prodMasiva.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frm_reimpresion.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frm_rotulados.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.MDIPROFIL.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.Resources.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.SplashScreen1.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.vbproj.GenerateResource.Cache
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.TrustInfo.xml
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.exe.manifest
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.application
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.exe
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.xml
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.pdb
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frm_OutsItm.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frm_OutsItm.resources
+D:\DESARROLLO\PROFIL\PROFIL\bin\Debug\ConectionDLL.pdb
+D:\DESARROLLO\PROFIL\PROFIL\bin\Debug\ConectionDLL.xml
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.Report1.rdlc
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\RdlCompile.cache
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\RdlCompile.compiled
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.SendMail.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frm_RcpItem.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frm_upd_date.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.rpt_PesoxDia.rpt
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.Report1.rdlc
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.rpt_PesoxDia.rpt
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frm_RcpItem.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.frm_upd_date.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\PROFIL.SendMail.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\RdlCompile.cache
+D:\DESARROLLO\PROFIL\PROFIL\obj\Release\RdlCompile.compiled
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frm_GRXrpss.resources
+D:\DESARROLLO\PROFIL\PROFIL\obj\Debug\PROFIL.frm_PScraps.resources

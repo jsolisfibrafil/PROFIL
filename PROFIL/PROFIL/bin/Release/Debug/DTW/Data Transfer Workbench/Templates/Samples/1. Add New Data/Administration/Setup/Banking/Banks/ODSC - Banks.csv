@@ -1,0 +1,5 @@
+AbsoluteEntry,BankCode,BankName,SwiftNo,IBAN,CountryCode,PostOffice,DefaultBankAccountKey
+AbsoluteEntry,BankCode,BankName,SwiftNum,IBAN,CountryCod,PostOffice,DfltActKey
+,CHASE,JP Morgan Chase,,,US,,
+,CITI,Citi Bank,,,US,,
+,BOA,Bank of America,,,US,,

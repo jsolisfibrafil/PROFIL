@@ -1,0 +1,3 @@
+Code,ApplyHighestLetterTemplate,CalculateInterestMethod,DaysInMonth,DaysInYear,DunningTermLines,ExchangeRateSelect,GroupingMethod,IncludeInterest,LetterFee,LetterFeeCurrency,MinimumBalance,MinimumBalanceCurrency,Name,YearlyInterestRate
+Code,ApplyHighestLetterTemplate,CalculateInterestMethod,DaysInMonth,DaysInYear,DunningTermLines,ExchangeRateSelect,GroupingMethod,IncludeInterest,LetterFee,LetterFeeCurrency,MinimumBalance,MinimumBalanceCurrency,Name,YearlyInterestRate
+Term2,,,,,,,gmPerBP,,,,,,Term2Name,

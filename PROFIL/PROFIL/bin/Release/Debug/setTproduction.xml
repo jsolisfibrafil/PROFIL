@@ -1,0 +1,6 @@
+<?xml version="1.0" ?> 
+<typeproduction>
+	<type tpnombre="Estandar" tpval="S" />
+	<type tpnombre="Especial" tpval="P" />
+	<type tpnombre="Desmontaje" tpval="D" />
+</typeproduction>

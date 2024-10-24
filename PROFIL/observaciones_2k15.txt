@@ -1,0 +1,6 @@
+MEJORAS Y CORRECIONES DE PROFIL
+
+SEMANA 11-08 al 14-08
+
+Formulario de entregas:  Se corrige la opcion de enviar a PDA, se detecto el problema de que si el usuario olvidaba si había enviado la guia al PDA y volvía a dar en dicha opción se volvía a generar los detalles de dicha GR en dodne se generaba un error de tipo ambiguedad de datos. ocasionando así problemas en la lectura de los codigos de barra desde el PDA y al mismo tiempo generando nuevos asientos en el movimiento de Kardex.
+

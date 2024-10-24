@@ -1,0 +1,5 @@
+PaymentMethodCode,Name,AssignedtoCreditCard,PaymentCode,MinimumCreditAmount,MinimumPaymentAmount,MaxQtyWithoutApproval
+PaymentMethodCode,CrTypeName,CreditCard,DueTerms,MinCredit,MinToPay,MaxValid
+PM001,Payment Method 1,,101,,,
+PM002,Payment Method 2,,102,,,
+PM003,Payment Method 3,,103,,,

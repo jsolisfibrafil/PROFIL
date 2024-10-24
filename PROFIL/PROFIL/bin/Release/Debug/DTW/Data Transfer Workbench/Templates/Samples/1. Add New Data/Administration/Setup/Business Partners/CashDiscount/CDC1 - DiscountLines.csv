@@ -1,0 +1,4 @@
+ParentKey,LineNum,Day,Discount,DiscountCode,LineId,Month,NumOfDays
+Code,LineNum,Day,Discount,DiscountCode,LineId,Month,NumOfDays
+D1,,,15,,,,10
+D2,,2,12,,,1,

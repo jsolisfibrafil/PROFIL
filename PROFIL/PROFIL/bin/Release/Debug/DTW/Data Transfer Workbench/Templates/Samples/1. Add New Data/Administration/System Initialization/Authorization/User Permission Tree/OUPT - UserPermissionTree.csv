@@ -1,0 +1,5 @@
+PermissionID,Name,Options,ParentID,IsItem,UserSignature
+AbsId,Name,Options,FathId,IsItem,UserSign
+1,Full,,,,
+2,User,,,,
+3,Limited,,,,

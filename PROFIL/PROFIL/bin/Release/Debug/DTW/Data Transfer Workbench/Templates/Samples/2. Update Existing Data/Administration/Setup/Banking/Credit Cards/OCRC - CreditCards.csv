@@ -1,0 +1,3 @@
+CreditCardCode,CreditCardName,GLAccount,Telephone,CompanyID
+CreditCardCode,CardName,AcctCode,Phone,CompanyId
+GreatWallCard,BOC GreatWallCard,1001123410001970,95588,BOC

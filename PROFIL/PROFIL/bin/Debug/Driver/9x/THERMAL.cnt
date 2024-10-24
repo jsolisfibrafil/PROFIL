@@ -1,0 +1,83 @@
+:Base thermal.hlp>Main
+1 Getting started
+2 Introduction=Introduction@thermal.hlp>Main
+2 Driver installation=Driverinstallation@thermal.hlp>Main
+2 Configuring serial communication
+3 Configuring serial communication=Configuringserialcommunication@thermal.hlp>Main
+3 Why are there sometimes problems printing over the serial port=Whyaretheresometimesproblemsprintingovertheserialport@thermal.hlp>Main
+3 Specifying the serial port settings on printer and in Windows
+4 Specifying the serial port settings on printer and in Windows=SpecifyingtheserialportsettingsonprinterandinWindows@thermal.hlp>Main
+4 Setting the serial port in Windows=SettingtheserialportinWindows@thermal.hlp>Main
+1 About printing performance
+2 Factors that affect the printing performance=Factorsthataffecttheprintingperformance@thermal.hlp>Main
+2 Increasing the printing performance
+3 Increasing the printing performance=Increasingtheprintingperformance@thermal.hlp>Main
+3 Serial / Parallel connection issues=Serial.Parallelconnectionissues@thermal.hlp>Main
+3 Use printer's internal fonts=Useprinter.sinternalfonts@thermal.hlp>Main
+3 Set the printing speed to a higher value=Settheprintingspeedtoahighervalue@thermal.hlp>Main
+3 Use the No. of copies option=UsetheNo.ofcopiesoption@thermal.hlp>Main
+3 Minimize the use of graphics on the label=Minimizetheuseofgraphicsonthelabel@thermal.hlp>Main
+1 Troubleshooting
+2 Overview=Overview1@thermal.hlp>Main
+2 Printer does not print at all
+3 Printer does not print at all=Printerdoesnotprintatall@thermal.hlp>Main
+3 Check serial port communication setting=Checkserialportcommunicationsetting@thermal.hlp>Main
+3 Check printer connection=Checkprinterconnection@thermal.hlp>Main
+3 Turn Printer Off and On After Configuration Changes=TurnPrinterOffandOnAfterConfigurationChanges@thermal.hlp>Main
+2 Printer prints something, but the result is incorrect
+3 Printer prints something, but the result is incorrect=Printerprintssomething.buttheresultisincorrect@thermal.hlp>Main
+3 Printer works for some time, but after a while stops=Printerworksforsometime.butafterawhilestops@thermal.hlp>Main
+3 Graphics is missing or not printed completely=Graphicsismissingornotprintedcompletely@thermal.hlp>Main
+3 Printer prints across two or more labels=Printerprintsacrosstwoormorelabels@thermal.hlp>Main
+3 Printing doesn't start on top of label=Printingdoesn.tstartontopoflabel@thermal.hlp>Main
+1 Printer properties dialog box
+2 Overview=Overview2@thermal.hlp>Main
+2 Special notes for Windows NT users=SpecialnotesforWindowsNTusers@thermal.hlp>Main
+2 General tab=Generaltab@thermal.hlp>Main
+2 Details tab=Detailstab@thermal.hlp>Main
+2 Sharing tab=Sharingtab@thermal.hlp>Main
+2 Options tab=Optionstab@thermal.hlp>Main
+1 Advanced setup
+2 Overview=Overview3@thermal.hlp>Main
+1 Barcode fonts
+2 Overview=Overview4@thermal.hlp>Main
+2 Barcode fonts dialog box
+3 Barcode fonts dialog box=Barcodefontsdialogbox@thermal.hlp>Main
+4 Adding a new barcode font=Addinganewbarcodefont@thermal.hlp>Main
+4 Changing the barcode font=Changingthebarcodefont@thermal.hlp>Main
+4 Removing the barcode font=Removingthebarcodefont@thermal.hlp>Main
+2 Define barcode font dialog box
+3 Define barcode font dialog box=Definebarcodefontdialogbox@thermal.hlp>Main
+1 Printer memory
+2 Overview=Overview5@thermal.hlp>Main
+2 Printer memory dialog box=Printermemorydialogbox@thermal.hlp>Main
+2 Memory cards organizer dialog box=Memorycardsorganizerdialogbox@thermal.hlp>Main
+2 Memory card details dialog box=Memorycarddetailsdialogbox@thermal.hlp>Main
+1 Stocks
+2 Stocks overview=Stocksoverview@thermal.hlp>Main
+2 Define stock dialog=Definestockdialog@thermal.hlp>Main
+1 Language
+2 Language overview=Languageoverview@thermal.hlp>Main
+1 Custom printer commands
+2 Custom printer commands overview=Customprintercommandsoverview@thermal.hlp>Main
+2 Types of user custom commands
+3 Types of user custom commands=Typesofusercustomcommands@thermal.hlp>Main
+3 Start Document=StartDocument@thermal.hlp>Main
+3 End Document=EndDocument@thermal.hlp>Main
+3 Start Page=StartPage@thermal.hlp>Main
+3 End Page=EndPage@thermal.hlp>Main
+2 Syntax of user custom commands
+3 Syntax of user custom commands=Syntaxofusercustomcommands@thermal.hlp>Main
+1 Printer settings
+2 Printer settings overview
+3 Printer settings overview=Printersettingsoverview@thermal.hlp>Main
+3 Printer fonts=Printerfonts@thermal.hlp>Main
+3 Spool format=Spoolformat@thermal.hlp>Main
+3 Line substitution=Linesubstitution@thermal.hlp>Main
+3 Command separation=Commandseparation@thermal.hlp>Main
+1 International
+2 International overview=Internationaloverview@thermal.hlp>Main
+1 Finally
+2 Updating to the latest version of drivers=Updatingtothelatestversionofdrivers@thermal.hlp>Main
+2 NICE Software=NICESoftware@thermal.hlp>Main
+2 Contacting Euro Plus=ContactingEuroPlus@thermal.hlp>Main

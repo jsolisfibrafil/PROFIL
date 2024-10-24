@@ -1,0 +1,3 @@
+ParentKey,LineNum,AgreementNo,AgreementRowNumber,BlanketAgreements_DetailsLines,CumulativeAmountFC,CumulativeAmountLC,CumulativeQuantity,FreeText,InventoryUoM,ItemDescription,ItemGroup,ItemNo,PlannedQuantity,PriceCurrency,UnitPrice
+AgreementNo,LineNum,AgreementNo,AgreementRowNumber,BlanketAgreements_DetailsLines,CumulativeAmountFC,CumulativeAmountLC,CumulativeQuantity,FreeText,InventoryUoM,ItemDescription,ItemGroup,ItemNo,PlannedQuantity,PriceCurrency,UnitPrice
+1,0,,,,,,,,,,,A0001,60,,

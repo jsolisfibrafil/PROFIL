@@ -1,0 +1,5 @@
+SequentialNo,AttachmentEntry,BPChanelCode,BPChanelName,BPChannelContact,CardCode,ClosingType,ContactPerson,CustomerName,DataOwnershipfield,GrossProfit,GrossProfitTotalLocal,Industry,InterestField1,InterestField2,InterestField3,InterestLevel,OpportunityName,PredictedClosingDate,ProjectCode,ReasonForClosing,Remarks,SalesPerson,Source,StartDate,Status,StatusRemarks,Territory,TotalAmountLocal
+SequentialNo,AttachmentEntry,BPChanelCode,BPChanelName,BPChannelContact,CardCode,ClosingType,ContactPerson,CustomerName,DataOwnershipfield,GrossProfit,GrossProfitTotalLocal,Industry,InterestField1,InterestField2,InterestField3,InterestLevel,OpportunityName,PredictedClosingDate,ProjectCode,ReasonForClosing,Remarks,SalesPerson,Source,StartDate,Status,StatusRemarks,Territory,TotalAmountLocal
+1,,,,,C40000,,,,,,,,,,,,,,,,,,,20050101,,,,
+2,,,,,C40000,,,,,,,,,,,,,,,,,,,20050102,,,,
+3,,,,,C40000,,,,,,,,,,,,,,,,,,,20050103,,,,

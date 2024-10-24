@@ -1,0 +1,3 @@
+ParentKey,LineNum,DocEntry,LandedCostCode,AllocationBy,Amount,AmountFC,Factor,CostType,IncludeForCustoms
+LandedCostNumber,LineNum,DocEntry,LandedCostCode,AllocationBy,Amount,AmountFC,Factor,CostType,IncludeForCustoms
+1,,,LC,,10,,,,

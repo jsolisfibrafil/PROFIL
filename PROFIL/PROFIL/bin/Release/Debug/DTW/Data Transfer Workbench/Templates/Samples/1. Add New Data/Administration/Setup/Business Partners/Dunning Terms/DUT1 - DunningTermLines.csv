@@ -1,0 +1,3 @@
+ParentKey,LineNum,CalculateInterest,Effectiveafter,LetterFee,LetterFeeCurrency,LetterFormat,LevelNum,MininumBalance,MininumBalanceCurrency
+Code,LineNum,CalculateInterest,Effectiveafter,LetterFee,LetterFeeCurrency,LetterFormat,LevelNum,MininumBalance,MininumBalanceCurrency
+Term2,,tYES,5,,,dltDunningLetter1,,,

@@ -1,0 +1,5 @@
+ParentKey,LineNum,AccountNo,BPCode,BankCode,Block,Branch,BuildingFloorRoom,City,ControlKey,Country,County,IBAN,InternalKey,LogInstance,State,Street,UserNo1,UserNo2,UserNo3,UserNo4,ZipCode
+CardCode,LineNum,AccountNo,BPCode,BankCode,Block,Branch,BuildingFloorRoom,City,ControlKey,Country,County,IBAN,InternalKey,LogInstance,State,Street,UserNo1,UserNo2,UserNo3,UserNo4,ZipCode
+C001,,10,,BOA,,,,,,,,,,,,,,,,,
+C002,,20,,BOA,,,,,,,,,,,,,,,,,
+V001,,30,,BOA,,,,,,,,,,,,,,,,,

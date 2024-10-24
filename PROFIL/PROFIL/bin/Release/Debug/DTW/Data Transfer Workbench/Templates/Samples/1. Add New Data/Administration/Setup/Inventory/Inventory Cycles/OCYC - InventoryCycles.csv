@@ -1,0 +1,5 @@
+CycleCode,CycleName,Frequency,Day,Hour,NextCountingDate
+CycleCode,Name,Frequency,Day,Hour,NextDate
+,Quick,,,,
+,Normal,,,,
+,Emergency,,,,

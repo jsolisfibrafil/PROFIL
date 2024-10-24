@@ -1,0 +1,5 @@
+DivisionCode,Description,BudgetAmount,January,February,March,April,May,June,July,August,September,October,November,December
+DivisionCode,BgdName,BgdTotal,Month1,Month2,Month3,Month4,Month5,Month6,Month7,Month8,Month9,Month10,Month11,Month12
+1,,120,10,10,10,10,10,10,10,10,10,10,10,10
+2,,240,20,20,20,20,20,20,20,20,20,20,20,20
+3,,360,30,30,30,30,30,30,30,30,30,30,30,30

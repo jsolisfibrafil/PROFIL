@@ -1,0 +1,3 @@
+DocEntry	Series	Printed	DocDate	CardCode	CardName	Address	Reference1	Reference2	Comments	JournalMemo	SalesPersonCode	TaxDate	FolioPrefixString	FolioNumber	DocObjectCode
+<-----Do not fill this row------->
+1			20141231												67

@@ -1,0 +1,14 @@
+RecordKey,LineNum,AddressName,AddressName2,AddressName3,AddressType,Block,BuildingFloorRoom,City,Country,County,FederalTaxID,State,Street,TaxCode,ZipCode
+RecordKey,LineNum,AddressName,AddressName2,AddressName3,AddressType,Block,BuildingFloorRoom,City,Country,County,FederalTaxID,State,Street,TaxCode,ZipCode
+1,0,Work,,,,,,New City1,US,,,,Huaihai1 Rd,,
+1,1,Home,,,,,,New City1,US,,,,Handan1 Rd,,
+2,0,Work,,,,,,City2,US,,,,Huaihai2 Rd,,
+2,1,Home,,,,,,City2,US,,,,Handan2 Rd,,
+3,0,Work,,,,,,City3,US,,,,Huaihai1 Rd,,
+3,1,Home,,,,,,City3,US,,,,Handan2 Rd,,
+4,0,Work,,,,,,New York,US,,,,Plaza,,
+4,1,Home,,,,,,New York,US,,,,Plaza,,
+5,0,Work,,,,,,Seattle,US,,,,Park,,
+5,1,Home,,,,,,Seattle,US,,,,Park,,
+6,0,Work,,,,,,Washington,US,,,,Hill,,
+6,1,Home,,,,,,Washington,US,,,,Hill,,

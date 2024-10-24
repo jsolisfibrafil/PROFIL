@@ -1,0 +1,5 @@
+ParentKey,LineNum,STACode,STAType,STATaxonTaxCode,STATaxOnTaxType
+Code,LineNum,STACode,STAType,TaxOnTCode,TaxOnTType
+T1,,,,,
+T2,,,,,
+T3,,,,,

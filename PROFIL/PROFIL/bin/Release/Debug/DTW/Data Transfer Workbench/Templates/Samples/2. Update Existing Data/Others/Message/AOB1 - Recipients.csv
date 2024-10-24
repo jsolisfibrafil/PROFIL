@@ -1,0 +1,5 @@
+ParentKey,LineNum,CellularNumber,EmailAddress,FaxNumber,NameTo,SendEmail,SendFax,SendInternal,SendSMS,UserCode,UserType
+Code,LineNum,CellularNumber,EmailAddress,FaxNumber,NameTo,SendEmail,SendFax,SendInternal,SendSMS,UserCode,UserType
+1,0,,fredyun@hotmail.com,,,tYES,,tYES,,Bill,rt_InternalUser
+2,0,,fredyun@gmail.com,,,tYES,,tYES,,Bill,rt_InternalUser
+3,0,,032021179@fudan.edu.cn,,,tYES,,tYES,,Bill,rt_InternalUser

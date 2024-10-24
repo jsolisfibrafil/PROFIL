@@ -1,0 +1,5 @@
+ItemCode,CardCode,Price,Currency,DiscountPercent,PriceListNum,AutoUpdate
+ItemCode,CardCode,Price,Currency,Discount,ListNum,AutoUpdt
+A00001,C40000,199,USD,5,1,tYES
+A00002,C40000,19,USD,5,1,tYES
+A00003,C40000,9,USD,5,1,tYES

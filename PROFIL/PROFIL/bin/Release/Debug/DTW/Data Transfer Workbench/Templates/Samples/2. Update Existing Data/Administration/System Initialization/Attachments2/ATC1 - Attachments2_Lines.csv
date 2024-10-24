@@ -1,0 +1,5 @@
+ParentKey,FileExtension,FileName,Override,SourcePath
+AbsoluteEntry,FileExtension,FileName,Override,SourcePath
+1,exe,notepad,tYES,C:\WINDOWS
+2,sys,config,tYES,C:\
+3,bat,autoexec,tYES,C:\

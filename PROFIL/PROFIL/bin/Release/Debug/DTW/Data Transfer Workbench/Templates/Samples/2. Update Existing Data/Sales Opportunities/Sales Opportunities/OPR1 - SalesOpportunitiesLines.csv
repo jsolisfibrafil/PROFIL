@@ -1,0 +1,5 @@
+ParentKey,LineNum,BPChanelCode,BPChanelName,BPChannelContact,ClosingDate,ContactPerson,DataOwnershipfield,DocumentCheckbox,DocumentNumber,DocumentType,MaxLocalTotal,PercentageRate,Remarks,SalesPerson,StageKey,StartDate
+SequentialNo,LineNum,BPChanelCode,BPChanelName,BPChannelContact,ClosingDate,ContactPerson,DataOwnershipfield,DocumentCheckbox,DocumentNumber,DocumentType,MaxLocalTotal,PercentageRate,Remarks,SalesPerson,StageKey,StartDate
+1,0,,,,,,,,,,100,,,,,
+2,0,,,,,,,,,,100,,,,,
+3,0,,,,,,,,,,100,,,,,

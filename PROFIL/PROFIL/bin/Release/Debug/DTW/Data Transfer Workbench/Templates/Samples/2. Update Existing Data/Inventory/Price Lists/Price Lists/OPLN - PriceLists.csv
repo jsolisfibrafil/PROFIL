@@ -1,0 +1,5 @@
+PriceListNo,PriceListName,BasePriceList,Factor,RoundingMethod,GroupNum
+PriceListNo,ListName,BASE_NUM,Factor,RoundSys,GroupCode
+,Price1,,,,
+,Price2,,,,
+,Price3,,,,

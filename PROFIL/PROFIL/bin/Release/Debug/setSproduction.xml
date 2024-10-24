@@ -1,0 +1,7 @@
+<?xml version="1.0" ?> 
+<statusproduction>
+	<status Stpnombre="Planificado" Stpval="P" />
+	<status Stpnombre="Liberado" Stpval="R" />
+	<status Stpnombre="Cerrado" Stpval="L" />
+	<status Stpnombre="Cancelado" Stpval="C" />
+</statusproduction>

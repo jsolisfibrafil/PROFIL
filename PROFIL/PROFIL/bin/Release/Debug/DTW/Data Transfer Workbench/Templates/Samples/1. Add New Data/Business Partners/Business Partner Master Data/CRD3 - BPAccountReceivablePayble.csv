@@ -1,0 +1,4 @@
+ParentKey,LineNum,AccountCode,AccountType
+CardCode,LineNum,AccountCode,AccountType
+C001,,_SYS00000000010,bpat_OpenDebts
+C002,,_SYS00000000010,bpat_OpenDebts

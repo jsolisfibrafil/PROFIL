@@ -1,0 +1,5 @@
+CheckKey,CheckNumber,BankCode,Branch,CheckDate,AccountNumber,Details,JournalEntryReference,PaymentDate,Transferable,VendorCode,CardOrAccount,TotalinWords,Signature,CustomerAccountCode,Address,CreateJournalEntry,DeductionRefundAmount,CountryCode
+CheckKey,CheckNum,BankNum,Branch,CheckDate,AcctNum,Details,TransRef,PmntDate,Trnsfrable,VendorCode,CardOrAcct,TotalWords,Signature,CheckAcct,Address,CreateJdt,SumRfndCln,CountryCod
+,1001,Chase,,,,,,,,,,,,,,,,
+,1002,Chase,,,,,,,,,,,,,,,,
+,1003,Chase,,,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+ExpensCode,DistributionMethod,ExpenseAccount,FixedAmountExpenses,FixedAmountRevenues,FreightOffsetAccount,Includein1099,InputVATGroup,Name,OutputVATGroup,RevenuesAccount,TaxLiable
+ExpensCode,DistributionMethod,ExpenseAccount,FixedAmountExpenses,FixedAmountRevenues,FreightOffsetAccount,Includein1099,InputVATGroup,Name,OutputVATGroup,RevenuesAccount,TaxLiable
+3,aed_None,_SYS00000000020,100,,,,,AEThird,,,
+4,aed_Quantity,_SYS00000000020,200,,,,,AEFourth,,,
+5,aed_Quantity,_SYS00000000020,300,,,,,AEFifth,,,

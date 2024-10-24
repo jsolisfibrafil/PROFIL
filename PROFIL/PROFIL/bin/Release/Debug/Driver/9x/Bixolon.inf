@@ -1,0 +1,180 @@
+[Version]
+Signature="$Windows NT$"
+Provider="Europlus"
+LayoutFile=layout.inf
+ClassGUID={4D36E979-E325-11CE-BFC1-08002BE10318}
+Class=Printer
+DriverVer=03/23/2007,4.1.10
+
+[ClassInstall]
+AddReg=ClassAddReg
+DelReg=ClassDelReg
+
+[ClassDelReg]
+HKLM,"System\CurrentControlSet\Services\Class\Printer","NoUseClass"
+
+[ClassAddReg]
+HKR,,,,%CLASSNAME%
+HKR,,Installer,,MSPRINT.DLL
+HKR,,Icon,,-4
+HKR,,NoDisplayClass,,1
+
+[Environment]
+UpdateInis=Environment_Ini
+AddReg=Environment_Reg
+
+[Environment_Ini]
+win.ini,Ports,"LPT1.DOS=",
+win.ini,Ports,"LPT2.DOS=",
+win.ini,Ports,"LPT3.DOS=",
+win.ini,Ports,"LPT1.OS2=",
+win.ini,Ports,"LPT2.OS2=",
+win.ini,Ports,"LPT3.OS2=",
+win.ini,windows,"Spooler=",
+win.ini,windows,"DosPrint=",
+win.ini,windows,"DeviceNotSelectedTimeout=",
+win.ini,windows,"TransmissionRetryTimeout=",
+
+[Environment_Reg]
+HKLM,"System\CurrentControlSet\Control\Print\Environments\Windows 4.0","Directory",,"CHICAGO"
+HKLM,"System\CurrentControlSet\Control\Print\Environments\Windows 4.0\Drivers",,,
+HKLM,"System\CurrentControlSet\Control\Print\Environments\Windows 4.0\Print Processors",,,
+HKLM,"System\CurrentControlSet\Control\Print\Monitors",,,
+HKLM,"System\CurrentControlSet\Control\Print\Printers",,,
+HKLM,"System\CurrentControlSet\Control\Print\Printers","StartOnBoot",1,01,00,00,00
+HKLM,"System\CurrentControlSet\Control\Print\Providers",,,
+
+[Manufacturer]
+"BIXOLON SAMSUNG"
+
+[BIXOLON SAMSUNG]
+"BIXOLON SAMSUNG SLP-T400" = SAMT4002,LPTENUM\SAMSUNGSLP-T400BB93,USBPRINT\SAMSUNGSLP-T400BB93
+"BIXOLON SAMSUNG SLP-T403" = SAMT4003,LPTENUM\SAMSUNGSLP-T403BAD3,USBPRINT\SAMSUNGSLP-T403BAD3
+"BIXOLON SAMSUNG SRP-770" = SAM770,LPTENUM\SAMSUNGSRP-77002C4,USBPRINT\SAMSUNGSRP-77002C4
+"BIXOLON SAMSUNG SRP-770II" = SAM770II,LPTENUM\SAMSUNGSRP-770II6725,USBPRINT\SAMSUNGSRP-770II6725
+
+
+[DestinationDirs]
+DefaultDestDir=66000
+LANGMON_NT=66002
+
+[SourceDisksFiles]
+ldaNLM9X.DLL = 1
+SAMT4002.dat = 1
+SAMT4002.BA0 = 1
+SAMT4003.dat = 1
+SAMT4003.BA0 = 1
+SAM770.dat = 1
+SAM770.BA0 = 1
+SAM770II.dat = 1
+SAM770II.BA0 = 1
+THERMAL.HLP = 1
+THERMAL.CNT = 1
+SSG95.DRV = 1
+SSGENG95.DLL = 1
+SSGSLO95.DLL = 1
+SSGCRO95.DLL = 1
+SSGGER95.DLL = 1
+SSGFRA95.DLL = 1
+SSGSPA95.DLL = 1
+SSGITA95.DLL = 1
+SSGFIN95.DLL = 1
+SSGDUT95.DLL = 1
+SSGPOR95.DLL = 1
+SSGCHE95.DLL = 1
+SSGPOL95.DLL = 1
+SSGHUN95.DLL = 1
+SSGRUS95.DLL = 1
+SSGSWE95.DLL = 1
+SSGLIT95.DLL = 1
+SSGUKR95.DLL = 1
+USBMON.DLL = 1
+USBPRINT.INF = 1
+USBPRINT.SYS = 1
+
+[MONITOR_USB]
+usbmon.dll,,,16
+
+[SourceDisksNames]
+1 = %Floppy%,,
+
+[SourceDisksNames.x86]
+1 = %Floppy%,,
+
+[Strings]
+Floppy="BIXOLON SAMSUNG Printer Driver Disk"
+CLASSNAME="Printer"
+
+[SAMT4002]
+DriverVer=03/23/2007,4.1.10
+CopyFiles=THERMALDRV,@SAMT4002.DAT,@SAMT4002.BA0,@SAMT4002.PP0,@THERMAL.HLP,@THERMAL.CNT,MONITOR_USB
+DataFile=SAMT4002.DAT
+DataSection=THERMAL_DATA
+PortMonitor="Microsoft USB Port Monitor",usbmon.dll
+HelpFile=THERMAL.HLP
+
+[SAMT4003]
+DriverVer=03/23/2007,4.1.10
+CopyFiles=THERMALDRV,@SAMT4003.DAT,@SAMT4003.BA0,@SAMT4003.PP0,@THERMAL.HLP,@THERMAL.CNT,MONITOR_USB
+DataFile=SAMT4003.DAT
+DataSection=THERMAL_DATA
+PortMonitor="Microsoft USB Port Monitor",usbmon.dll
+HelpFile=THERMAL.HLP
+
+[SAM770]
+DriverVer=03/23/2007,4.1.10
+CopyFiles=THERMALDRV,@SAM770.DAT,@SAM770.BA0,@SAM770.PP0,@THERMAL.HLP,@THERMAL.CNT,MONITOR_USB
+DataFile=SAM770.DAT
+DataSection=THERMAL_DATA
+PortMonitor="Microsoft USB Port Monitor",usbmon.dll
+HelpFile=THERMAL.HLP
+
+[SAM770II]
+DriverVer=03/23/2007,4.1.10
+CopyFiles=THERMALDRV,@SAM770II.DAT,@SAM770II.BA0,@SAM770II.PP0,@THERMAL.HLP,@THERMAL.CNT,MONITOR_USB
+DataFile=SAM770II.DAT
+DataSection=THERMAL_DATA
+PortMonitor="Microsoft USB Port Monitor",usbmon.dll
+HelpFile=THERMAL.HLP
+
+
+[THERMALDRV]
+SSG95.drv,,,0x00000004
+SSGENG95.DLL
+SSGSLO95.DLL
+SSGCRO95.DLL
+SSGGER95.DLL
+SSGFRA95.DLL
+SSGSPA95.DLL
+SSGITA95.DLL
+SSGFIN95.DLL
+SSGDUT95.DLL
+SSGPOR95.DLL
+SSGCHE95.DLL
+SSGPOL95.DLL
+SSGHUN95.DLL
+SSGRUS95.DLL
+SSGSWE95.DLL
+SSGLIT95.DLL
+SSGUKR95.DLL
+ldaNLM9X.dll,,,0x00000004
+
+[THERMAL_DATA]
+DefaultDataType=RAW
+NoTestPage=1
+DriverFile=SSG95.drv
+LanguageMonitor="Advanced Language Monitor,ldaNLM9X.dll"
+LanguageMonitorFiles=@ldaNLM9X.dll
+
+[AppInstall]
+AppName=Bixolon Font downloader
+AppIcon=*STARTUP*, "Bixolon Font downloader", BixFD.exe, 0
+DesktopIcon="Bixolon Font downloader", BixFD.exe, 0
+AppFiles=@BixFD.exe
+AppDest=*PRGFILES*\Bixolon Font downloader
+AppFlag=1
+AppDefaultCheck=1
+
+[PRNINST]
+AllowNewPortInstallationDlg=0
+Languages=1,3,4,5,7,8,9,10,11,12,13,14,15,16,19,22,28

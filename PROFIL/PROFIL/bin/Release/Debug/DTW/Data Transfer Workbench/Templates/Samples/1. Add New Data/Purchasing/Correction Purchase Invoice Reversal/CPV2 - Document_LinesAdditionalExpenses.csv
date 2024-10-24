@@ -1,0 +1,5 @@
+RecordKey,LineNum,BaseGroup,ExpenseCode,LineNumber,LineTotal,TaxType,VatGroup
+RecordKey,LineNum,BaseGroup,ExpenseCode,LineNumber,LineTotal,TaxType,VatGroup
+1,,,1,,,,
+2,,,2,,,,
+3,,,2,,,,

@@ -1,0 +1,5 @@
+RecordKey,LineNum,CreditedAccount,RowCurrency,RowDetails,RowTotal,TaxDefinition
+RecordKey,LineNum,CreditedAccount,RowCurrency,RowDetails,RowTotal,TaxDefinition
+1,0,_SYS00000000002,USD,,100,
+2,0,_SYS00000000002,USD,,101,
+3,0,_SYS00000000002,USD,,102,

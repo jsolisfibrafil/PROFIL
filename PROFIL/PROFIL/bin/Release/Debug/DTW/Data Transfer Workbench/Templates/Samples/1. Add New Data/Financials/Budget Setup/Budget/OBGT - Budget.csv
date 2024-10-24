@@ -1,0 +1,3 @@
+Numerator,ParentAccPercent,ParentAccountKey,TotalAnnualBudgetDebitSys,TotalAnnualBudgetDebitLoc,TotalAnnualBudgetCreditSys,TotalAnnualBudgetCreditLoc,DivisionCode,AccountCode,BudgetScenario
+Numerator,FtrIDRLSum,FtrICRSSum,FtrICRLSum,FthrPrcnt,FinancYear,FatherCode,DebSTotal,DebRSTotal,DebRLTotal
+1,,,,,,,,,

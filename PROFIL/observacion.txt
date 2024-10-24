@@ -1,0 +1,21 @@
+ordenes de produccion
+
+- revisar el mensaje del valor nulo de la imagen del codigo de barras EAN13 al momento de hacer el pesaje
+
+orden de produccion planeada
+
+- mesaje de conexion a la balanza no figura
+- no obtiene la lista de materiales usados en la produccion
+- no devuelve el articulo porque falta el codebar del vQuery
+- revisar los campos de scrap y saldos
+- en el detalle no figura la columna de tipo de produccion
+
+
+orden de produccion no planificada
+
+- no me permite editar los detalles 
+- el scrap / saldo no obtiene valor
+
+
+- revisar el manejo de cantidades y pesos desde la OP, hasta recepcion ya q si es en 65
+kg por ejemplo en el detalle coloca 65 detalles aun sido tan solo un item

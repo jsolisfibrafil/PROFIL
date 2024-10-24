@@ -1,0 +1,5 @@
+ParentKey,LineNum,BaseGroup,ExpenseCode,LineNumber,LineTotal,TaxType,VatGroup
+DocNum,LineNum,BaseGroup,ExpenseCode,LineNumber,LineTotal,TaxType,VatGroup
+1,0,,1,,1,aext_NormalTax,
+2,0,,1,,1,aext_NormalTax,
+3,0,,1,,1,aext_NormalTax,

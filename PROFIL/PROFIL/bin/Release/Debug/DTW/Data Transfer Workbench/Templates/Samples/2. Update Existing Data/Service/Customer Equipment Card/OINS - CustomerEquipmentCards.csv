@@ -1,0 +1,5 @@
+EquipmentCardNum,AttachmentEntry,Block,BuildingFloorRoom,City,ContactEmployeeCode,CountryCode,County,CustomerCode,CustomerName,DefaultTechnician,Defaultterritory,DeliveryCode,DirectCustomerCode,DirectCustomerName,InstallLocation,InternalSerialNum,InvoiceCode,ItemCode,ItemDescription,ManufacturerSerialNum,ReplaceSN,ReplacedBySN,StateCode,StatusOfSerialNumber,Street,ZipCode
+EquipmentCardNum,AttachmentEntry,Block,BuildingFloorRoom,City,ContactEmployeeCode,CountryCode,County,CustomerCode,CustomerName,DefaultTechnician,Defaultterritory,DeliveryCode,DirectCustomerCode,DirectCustomerName,InstallLocation,InternalSerialNum,InvoiceCode,ItemCode,ItemDescription,ManufacturerSerialNum,ReplaceSN,ReplacedBySN,StateCode,StatusOfSerialNumber,Street,ZipCode
+16,,,,,0,,,C50000,,,,,C50000,,,L-107,23,LM4029,,,,,,sns_Active,,
+17,,,,,0,,,C50000,,,,,C50000,,,L-108,23,LM4029,,,,,,sns_Active,,
+18,,,,,0,,,C50000,,,,,C50000,,,L-109,23,LM4029,,,,,,sns_Active,,

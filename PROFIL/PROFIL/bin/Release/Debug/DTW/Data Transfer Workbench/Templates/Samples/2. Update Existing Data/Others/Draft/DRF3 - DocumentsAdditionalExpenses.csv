@@ -1,0 +1,5 @@
+RecordKey,LineNum,BaseDocEntry,BaseDocLine,BaseDocType,DeductibleTaxSum,DistributionMethod,ExpenseCode,LastPurchasePrice,LineTotal,Remarks,Stock,TaxCode,VatGroup,WTLiable
+RecordKey,LineNum,BaseDocEntry,BaseDocLine,BaseDocType,DeductibleTaxSum,DistributionMethod,ExpenseCode,LastPurchasePrice,LineTotal,Remarks,Stock,TaxCode,VatGroup,WTLiable
+1,,,,,,,1,,,,,,,
+2,,,,,,,1,,,,,,,
+3,,,,,,,1,,,,,,,

@@ -1,0 +1,5 @@
+ParentKey,LineNum,ItemCode,Quantity,Warehouse,Price,Currency,IssueMethod,Comment,ParentItem,PriceList,DistributionRule
+TreeCode,LineNum,Code,Quantity,Warehouse,Price,Currency,IssueMthd,Comment,Father,PriceList,OcrCode
+T00001,0,A00006,3,01,160,USD,im_Backflush,,,1,
+T00001,1,S10002,3,01,160,USD,im_Backflush,,,1,
+,,,,,,,,,,,

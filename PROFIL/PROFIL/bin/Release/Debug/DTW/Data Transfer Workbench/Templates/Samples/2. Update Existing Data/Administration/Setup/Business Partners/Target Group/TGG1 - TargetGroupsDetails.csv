@@ -1,0 +1,3 @@
+ParentKey,LineNum,BusinessPartnerCode,BusinessPartnerName,GroupCode,Industry,ActiveStatus,ContactPerson,Title,Position,E_Mail,Telephone,MobilePhone,Fax,Address,Street,Block,City,ZipCode,County,State,Country,Building,ImportedBP,DuplicatedBusinessPartnerCode
+TargetGroupCode,LineNum,BusinessPartnerCode,BusinessPartnerName,GroupCode,Industry,ActiveStatus,ContactPerson,Title,Position,E_Mail,Telephone,MobilePhone,Fax,Address,Street,Block,City,ZipCode,County,State,Country,Building,ImportedBP,DuplicatedBusinessPartnerCode
+T2,0,C0001,Cname,,,,,AAAAA,,,,,,,,,,,,,,,,

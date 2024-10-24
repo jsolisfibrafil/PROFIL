@@ -1,0 +1,5 @@
+DocEntry,Series,Printed,DocDate,CardCode,CardName,Address,Reference1,Reference2,Comments,JournalMemo,PriceList,SalesPersonCode,FromWarehouse,TaxDate,ContactPerson,FolioPrefixString,FolioNumber,DocObjectCode
+DocEntry,Series,Printed,DocDate,CardCode,CardName,Address,Ref1,Ref2,Comments,JrnlMemo,GroupNum,SlpCode,Filler,TaxDate,CntctCode,FolioPref,FolioNum,ObjType
+1,,,20100101,C40000,,,,,,,,,01,,Transfer,,,
+2,,,20100101,C40000,,,,,,,,,02,,Transfer,,,
+3,,,20100101,C40000,,,,,,,,,03,,Transfer,,,

@@ -1,0 +1,5 @@
+InternalKey,UserPassword,UserCode,UserName,Superuser,eMail,MobilePhoneNumber,Defaults,FaxNumber,Branch,Department,Locked,MaxDiscountGeneral,MaxDiscountSales,MaxDiscountPurchase,CashLimit,MaxCashAmtForIncmngPayts
+InternalKey,PASSWORD4,USER_CODE,U_NAME,SUPERUSER,E_Mail,PortNum,DfltsGroup,Fax,Branch,Department,Locked,GROUPS,DISCOUNT,SalesDisc,CashLimit,MaxCashSum
+US1,,,,,,,,,,,,,,,,
+US2,,,,,,,,,,,,,,,,
+US3,,,,,,,,,,,,,,,,

@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="ConnectionString (MySettings)" PropertyReference="ApplicationSettings.PROFIL.My.MySettings.GlobalReference.Default.ConnectionString" Provider="System.Data.OleDb">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="U_VW_RQMNTTableAdapter" GeneratorDataComponentClassName="U_VW_RQMNTTableAdapter" Name="U_VW_RQMNT" UserDataComponentName="U_VW_RQMNTTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (MySettings)" DbObjectName="FIBRAFIL.dbo.U_VW_RQMNT" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT "RQ", "LINE", "FECHA", "Ult. Modif", "SOLICITANTE", "CODIGO", "PRODUCTO", "CANT", "UMED", "STOCK", "SUBGRUPO", "ROTULADO", "DERIVADO A", "OBSERVACIONES", "PRIORIDAD", "ESTADO", "KEY", "key2" FROM "dbo"."U_VW_RQMNT"</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="RQ" DataSetColumn="RQ" />
+              <Mapping SourceColumn="LINE" DataSetColumn="LINE" />
+              <Mapping SourceColumn="FECHA" DataSetColumn="FECHA" />
+              <Mapping SourceColumn="Ult. Modif" DataSetColumn="Ult_ Modif" />
+              <Mapping SourceColumn="SOLICITANTE" DataSetColumn="SOLICITANTE" />
+              <Mapping SourceColumn="CODIGO" DataSetColumn="CODIGO" />
+              <Mapping SourceColumn="PRODUCTO" DataSetColumn="PRODUCTO" />
+              <Mapping SourceColumn="CANT" DataSetColumn="CANT" />
+              <Mapping SourceColumn="UMED" DataSetColumn="UMED" />
+              <Mapping SourceColumn="STOCK" DataSetColumn="STOCK" />
+              <Mapping SourceColumn="SUBGRUPO" DataSetColumn="SUBGRUPO" />
+              <Mapping SourceColumn="ROTULADO" DataSetColumn="ROTULADO" />
+              <Mapping SourceColumn="DERIVADO A" DataSetColumn="DERIVADO A" />
+              <Mapping SourceColumn="OBSERVACIONES" DataSetColumn="OBSERVACIONES" />
+              <Mapping SourceColumn="PRIORIDAD" DataSetColumn="PRIORIDAD" />
+              <Mapping SourceColumn="ESTADO" DataSetColumn="ESTADO" />
+              <Mapping SourceColumn="KEY" DataSetColumn="KEY" />
+              <Mapping SourceColumn="key2" DataSetColumn="key2" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet1" msprop:Generator_DataSetName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="U_VW_RQMNT" msprop:Generator_UserTableName="U_VW_RQMNT" msprop:Generator_RowDeletedName="U_VW_RQMNTRowDeleted" msprop:Generator_TableClassName="U_VW_RQMNTDataTable" msprop:Generator_RowChangedName="U_VW_RQMNTRowChanged" msprop:Generator_RowClassName="U_VW_RQMNTRow" msprop:Generator_RowChangingName="U_VW_RQMNTRowChanging" msprop:Generator_RowEvArgName="U_VW_RQMNTRowChangeEvent" msprop:Generator_RowEvHandlerName="U_VW_RQMNTRowChangeEventHandler" msprop:Generator_TablePropName="U_VW_RQMNT" msprop:Generator_TableVarName="tableU_VW_RQMNT" msprop:Generator_RowDeletingName="U_VW_RQMNTRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RQ" msdata:ReadOnly="true" msprop:Generator_UserColumnName="RQ" msprop:Generator_ColumnPropNameInRow="RQ" msprop:Generator_ColumnVarNameInTable="columnRQ" msprop:Generator_ColumnPropNameInTable="RQColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="8000" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="LINE" msprop:Generator_UserColumnName="LINE" msprop:Generator_ColumnPropNameInRow="LINE" msprop:Generator_ColumnVarNameInTable="columnLINE" msprop:Generator_ColumnPropNameInTable="LINEColumn" type="xs:int" />
+              <xs:element name="FECHA" msprop:Generator_UserColumnName="FECHA" msprop:Generator_ColumnPropNameInRow="FECHA" msprop:Generator_ColumnVarNameInTable="columnFECHA" msprop:Generator_ColumnPropNameInTable="FECHAColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Ult__x0020_Modif" msprop:Generator_UserColumnName="Ult_ Modif" msprop:Generator_ColumnPropNameInRow="Ult__Modif" msprop:Generator_ColumnVarNameInTable="columnUlt__Modif" msprop:Generator_ColumnPropNameInTable="Ult__ModifColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="SOLICITANTE" msprop:Generator_UserColumnName="SOLICITANTE" msprop:Generator_ColumnPropNameInRow="SOLICITANTE" msprop:Generator_ColumnVarNameInTable="columnSOLICITANTE" msprop:Generator_ColumnPropNameInTable="SOLICITANTEColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CODIGO" msprop:Generator_UserColumnName="CODIGO" msprop:Generator_ColumnPropNameInRow="CODIGO" msprop:Generator_ColumnVarNameInTable="columnCODIGO" msprop:Generator_ColumnPropNameInTable="CODIGOColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PRODUCTO" msprop:Generator_UserColumnName="PRODUCTO" msprop:Generator_ColumnPropNameInRow="PRODUCTO" msprop:Generator_ColumnVarNameInTable="columnPRODUCTO" msprop:Generator_ColumnPropNameInTable="PRODUCTOColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CANT" msprop:Generator_UserColumnName="CANT" msprop:Generator_ColumnPropNameInRow="CANT" msprop:Generator_ColumnVarNameInTable="columnCANT" msprop:Generator_ColumnPropNameInTable="CANTColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="UMED" msprop:Generator_UserColumnName="UMED" msprop:Generator_ColumnPropNameInRow="UMED" msprop:Generator_ColumnVarNameInTable="columnUMED" msprop:Generator_ColumnPropNameInTable="UMEDColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="STOCK" msprop:Generator_UserColumnName="STOCK" msprop:Generator_ColumnPropNameInRow="STOCK" msprop:Generator_ColumnVarNameInTable="columnSTOCK" msprop:Generator_ColumnPropNameInTable="STOCKColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SUBGRUPO" msdata:ReadOnly="true" msprop:Generator_UserColumnName="SUBGRUPO" msprop:Generator_ColumnPropNameInRow="SUBGRUPO" msprop:Generator_ColumnVarNameInTable="columnSUBGRUPO" msprop:Generator_ColumnPropNameInTable="SUBGRUPOColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ROTULADO" msdata:ReadOnly="true" msprop:Generator_UserColumnName="ROTULADO" msprop:Generator_ColumnPropNameInRow="ROTULADO" msprop:Generator_ColumnVarNameInTable="columnROTULADO" msprop:Generator_ColumnPropNameInTable="ROTULADOColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DERIVADO_x0020_A" msdata:ReadOnly="true" msprop:Generator_UserColumnName="DERIVADO A" msprop:Generator_ColumnPropNameInRow="DERIVADO_A" msprop:Generator_ColumnVarNameInTable="columnDERIVADO_A" msprop:Generator_ColumnPropNameInTable="DERIVADO_AColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="OBSERVACIONES" msdata:ReadOnly="true" msprop:Generator_UserColumnName="OBSERVACIONES" msprop:Generator_ColumnPropNameInRow="OBSERVACIONES" msprop:Generator_ColumnVarNameInTable="columnOBSERVACIONES" msprop:Generator_ColumnPropNameInTable="OBSERVACIONESColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="300" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PRIORIDAD" msdata:ReadOnly="true" msprop:Generator_UserColumnName="PRIORIDAD" msprop:Generator_ColumnPropNameInRow="PRIORIDAD" msprop:Generator_ColumnVarNameInTable="columnPRIORIDAD" msprop:Generator_ColumnPropNameInTable="PRIORIDADColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ESTADO" msdata:ReadOnly="true" msprop:Generator_UserColumnName="ESTADO" msprop:Generator_ColumnPropNameInRow="ESTADO" msprop:Generator_ColumnVarNameInTable="columnESTADO" msprop:Generator_ColumnPropNameInTable="ESTADOColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="11" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="KEY" msdata:ReadOnly="true" msprop:Generator_UserColumnName="KEY" msprop:Generator_ColumnPropNameInRow="KEY" msprop:Generator_ColumnVarNameInTable="columnKEY" msprop:Generator_ColumnPropNameInTable="KEYColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="90" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="key2" msdata:ReadOnly="true" msprop:Generator_UserColumnName="key2" msprop:Generator_ColumnPropNameInRow="key2" msprop:Generator_ColumnVarNameInTable="columnkey2" msprop:Generator_ColumnPropNameInTable="key2Column" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="90" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

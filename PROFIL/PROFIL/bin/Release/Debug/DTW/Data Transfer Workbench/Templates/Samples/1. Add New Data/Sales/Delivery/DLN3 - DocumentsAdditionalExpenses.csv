@@ -1,0 +1,5 @@
+ParentKey,LineNum,BaseDocEntry,BaseDocLine,BaseDocType,DeductibleTaxSum,DistributionMethod,ExpenseCode,LastPurchasePrice,LineTotal,Remarks,Stock,TaxCode,VatGroup,WTLiable
+DocNum,LineNum,BaseDocEntry,BaseDocLine,BaseDocType,DeductibleTaxSum,DistributionMethod,ExpenseCode,LastPurchasePrice,LineTotal,Remarks,Stock,TaxCode,VatGroup,WTLiable
+1,0,,,,,aedm_None,1,,,Comments,tNO,,,tNO
+2,0,,,,,aedm_None,1,,,Comments,tNO,,,tNO
+3,0,,,,,aedm_None,1,,,Comments,tNO,,,tNO

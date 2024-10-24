@@ -1,0 +1,10 @@
+RecordKey,LineNum,Address,DateOfBirth,E_Mail,Fax,Gender,MobilePhone,Name,Pager,Password,Phone1,Phone2,PlaceOfBirth,Position,Profession,Remarks1,Remarks2,Title
+RecordKey,LineNum,Address,DateOfBirth,E_Mail,Fax,Gender,MobilePhone,Name,Pager,Password,Phone1,Phone2,PlaceOfBirth,Position,Profession,Remarks1,Remarks2,Title
+1,,An der Hofmark 48,,valerian.adamek@zwei.de,650 FAX IT,,999 CELL PHONE,Valerian Adamek,999 PAGER,Password,650 PHONE1,650 PHONE2,,Purchasing,,Remarks 1,Remarks 2,
+1,,An der Hofmark 48,,adrienne.altmann@gmx.com,0371/680582,,0177 / 9868218,Adrienne Altmann,999 PAGER,Password,0371/680581,,,Purchasing,,Remarks 1,Remarks 2,
+1,,An der Hofmark 48,,christian@t-online.de,06421/830596,,0178 / 8889573,Christian Andresen,999 PAGER,Password,06421/830595,,,CIO,,Remarks 1,Remarks 2,
+2,,An der Hofmark 48,,anton@gmx.com,06131/527018,,0162 / 8625299,Andree Anton,999 PAGER,Password,06131/527017,,,CEO,,Remarks 1,Remarks 2,
+3,,?u?ere Schlotthamer Stra?e 47,,martina@web.de,0951/855173,,0177 / 8309544,Martina  Basalyk,100 PAGER,Password,0951/855172,,,Sales,,,,
+4,,Tom,,tom@tom.com,1234,,178 / 8309544,Tom,101 PAGER,Password,5507,,,Manager,,Nice,,
+5,,Jack,,jack@jack.com,5678,,179 / 8309544,Jack,102 PAGER,Password,5508,,,Accountant,,good,,
+6,,Bill,,bill@bill.com,7890,,180 / 8309544,Bill,103 PAGER,Password,5509,,,Programmer,,fine,,

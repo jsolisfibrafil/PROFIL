@@ -1,0 +1,5 @@
+ParentKey,LineNum,Quantity,ForecastedDay,ItemNo
+Numerator,LineNum,Quantity,Date,ItemCode
+1,0,100,20050105,LM4029
+2,0,200,20050205,LM4029
+3,0,300,20050305,LM4029

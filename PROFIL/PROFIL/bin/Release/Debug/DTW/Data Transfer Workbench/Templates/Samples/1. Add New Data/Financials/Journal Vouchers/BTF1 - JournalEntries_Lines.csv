@@ -1,0 +1,8 @@
+RecordKey,LineNum,AccountCode,AdditionalReference,BaseSum,ContraAccount,CostingCode,Credit,Debit,DueDate,FCCredit,FCCurrency,FCDebit,GrossValue,LineMemo,ProjectCode,Reference1,Reference2,ReferenceDate1,ReferenceDate2,ShortName,SystemBaseAmount,SystemVatAmount,TaxDate,TaxGroup,VatAmount,VatDate,VatLine
+RecordKey,LineNum,AccountCode,AdditionalReference,BaseSum,ContraAccount,CostingCode,Credit,Debit,DueDate,FCCredit,FCCurrency,FCDebit,GrossValue,LineMemo,ProjectCode,Reference1,Reference2,ReferenceDate1,ReferenceDate2,ShortName,SystemBaseAmount,SystemVatAmount,TaxDate,TaxGroup,VatAmount,VatDate,VatLine
+1,0,_SYS00000000050,,100,,,100,0,20050104,0,,0,,,,,,,,_SYS00000000050,,,,,,,
+1,1,_SYS00000000050,,100,,,0,100,20050104,0,,0,,,,,,,,_SYS00000000050,,,,,,,
+2,0,_SYS00000000050,,100,,,100,0,20050104,0,,0,,,,,,,,_SYS00000000050,,,,,,,
+2,1,_SYS00000000050,,100,,,0,100,20050104,0,,0,,,,,,,,_SYS00000000050,,,,,,,
+3,0,_SYS00000000050,,100,,,100,0,20050104,0,,0,,,,,,,,_SYS00000000050,,,,,,,
+3,1,_SYS00000000050,,100,,,0,100,20050104,0,,0,,,,,,,,_SYS00000000050,,,,,,,

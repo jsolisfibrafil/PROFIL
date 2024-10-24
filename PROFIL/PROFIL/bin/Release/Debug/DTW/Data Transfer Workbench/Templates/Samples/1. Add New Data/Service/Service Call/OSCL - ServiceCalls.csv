@@ -1,0 +1,5 @@
+ServiceCallID,Subject,CustomerCode,CustomerName,ContactCode,ManufacturerSerialNum,InternalSerialNum,ContractID,ResolutionDate,ResolutionTime,Origin,ItemCode,ItemDescription,Status,Priority,CallType,ProblemType,AssigneeCode,Description,TechnicianCode,Resolution,BelongsToAQueue,Queue
+ServiceCallID,subject,customer,custmrName,contctCode,manufSN,internalSN,contractID,cntrctDate,resolDate,resolTime,origin,itemCode,itemName,itemGroup,status,priority,callType,problemTyp,assignee,descrption,technician,
+Software1,Installation,C001,,3,,,5,,,,A001,,,M,,,,,,,,
+Software2,Upgrade,C002,,3,,,5,,,,A002,,,M,,,,,,,,
+Software3,Localization,C003,,3,,,5,,,,A003,,,M,,,,,,,,

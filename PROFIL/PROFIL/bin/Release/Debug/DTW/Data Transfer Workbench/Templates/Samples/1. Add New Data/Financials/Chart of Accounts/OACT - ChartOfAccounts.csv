@@ -1,0 +1,5 @@
+Code,Name,CashAccount,BudgetAccount,ActiveAccount,DataExportCode,FatherAccountKey,ExternalCode,RateConversion,TaxLiableAccount,TaxExemptAccount,AccountType,LoadingType,LoadingFactorCode,AcctCurrency,Protected,ReconciledAccount,LiableForAdvances,ForeignName,Details,ProjectCode,RevaluationCoordinated,LockManualTransaction,FormatCode,DefaultVatGroup,AllowChangeVatGroup,Category,TransactionCode,LoadingFactorCode5,LoadingFactorCode2,LoadingFactorCode3,LoadingFactorCode4,PlanningLevel
+AcctCode,AcctName,Finanse,Budget,Postable,ExportCode,FatherNum,AccntntCod,RateTrans,TaxIncome,ExmIncome,ActType,OverType,OverCode,ActCurr,Protected,RealAcct,Advance,FrgnName,Details,Project,RevalMatch,LocManTran,FormatCode,DfltVat,VatChange,Category,TransCode,OverCode5,OverCode2,OverCode3,OverCode4,PlngLevel
+10010001,Food Expense,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10010002,Furniture Expense,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10010003,Service Expense,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

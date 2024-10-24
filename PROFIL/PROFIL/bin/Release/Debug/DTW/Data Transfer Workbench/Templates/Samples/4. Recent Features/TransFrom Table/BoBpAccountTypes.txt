@@ -1,0 +1,11 @@
+0,bpat_General  
+1,bpat_DownPayment    
+2,bpat_AssetsAccount  
+3,bpat_Receivable  
+4,bpat_Payable  
+5,bpat_OnCollection 
+6,bpat_Presentation  
+7,bpat_AssetsPayable 
+8,bpat_Discounted  
+9,bpat_Unpaid  
+10,bpat_OpenDebts 

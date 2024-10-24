@@ -1,0 +1,16 @@
+ParentKey,LineNum,AgreementEffectiveRowNumber,AgreementNo,AgreementRowNumber,CallUp,ConsumeSalesForecast,DatePeriod,FreeText,From,Quantity,To,Warehouse
+AgreementNo,LineNum,AgreementEffectiveRowNumber,AgreementNo,AgreementRowNumber,CallUp,ConsumeSalesForecast,DatePeriod,FreeText,From,Quantity,To,Warehouse
+1,,1,,1,,,,,2010-10-28,,2010-10-28,
+1,,2,,1,,,,,2010-10-29,,2010-10-29,
+1,,1,,2,,,,,2010-10-30,,2010-10-30,
+1,,2,,2,,,,,2010-10-31,,2010-10-31,
+2,,1,,1,,,,,2010-11-01,,2010-11-01,
+2,,2,,1,,,,,2010-11-02,,2010-11-02,
+2,,1,,2,,,,,2010-11-03,,2010-11-03,
+2,,2,,2,,,,,2010-11-04,,2010-11-04,
+3,,1,,1,,,,,2010-11-05,,2010-11-05,
+3,,2,,1,,,,,2010-11-06,,2010-11-06,
+3,,1,,2,,,,,2010-11-07,,2010-11-07,
+3,,2,,2,,,,,2010-11-08,,2010-11-08,
+3,,1,,3,,,,,2010-11-09,,2010-11-09,
+3,,2,,3,,,,,2010-11-10,,2010-11-10,

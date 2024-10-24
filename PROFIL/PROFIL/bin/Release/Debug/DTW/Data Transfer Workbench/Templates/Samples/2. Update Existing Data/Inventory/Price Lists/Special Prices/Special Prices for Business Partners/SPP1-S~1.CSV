@@ -1,0 +1,5 @@
+ParentKey,ParentKey2,LineNum,PriceCurrency,AutoUpdate,Dateto,Discount,SpecialPrice,DateFrom,PriceListNo,RowNumber
+ItemCode,CardCode,LineNum,Currency,AutoUpdt,ToDate,Discount,Price,FromDate,ListNum,LINENUM
+A00001,C40000,0,USD,,20050610,99,299,20050101,1,
+A00001,C40000,0,USD,,20050610,99,199,20050101,1,
+A00001,C40000,0,USD,,20050610,99,99,20050101,1,

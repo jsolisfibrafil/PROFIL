@@ -1,0 +1,3 @@
+AbsoluteEntry,CustomerCode,DueDate,ItemNo,JournalRemarks,PlannedQuantity,PostingDate,ProductionOrderOrigin,ProductionOrderOriginEntry,ProductionOrderStatus,ProductionOrderType,Remarks,Series,Warehouse
+AbsoluteEntry,CustomerCode,DueDate,ItemNo,JournalRemarks,PlannedQuantity,PostingDate,ProductionOrderOrigin,ProductionOrderOriginEntry,ProductionOrderStatus,ProductionOrderType,Remarks,Series,Warehouse
+9,,20050112,LM4029PS,Production Order - LM4029PS,10,20050112,bopooManual,,P,S,,25,1

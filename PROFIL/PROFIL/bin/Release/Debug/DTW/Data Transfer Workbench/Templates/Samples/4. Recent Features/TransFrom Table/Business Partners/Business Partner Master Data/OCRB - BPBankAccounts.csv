@@ -1,0 +1,8 @@
+RecordKey,LineNum,AccountNo,BPCode,BankCode,Block,Branch,BuildingFloorRoom,City,ControlKey,Country,County,IBAN,InternalKey,LogInstance,State,Street,UserNo1,UserNo2,UserNo3,UserNo4,ZipCode
+RecordKey,LineNum,AccountNo,BPCode,BankCode,Block,Branch,BuildingFloorRoom,City,ControlKey,Country,County,IBAN,InternalKey,LogInstance,State,Street,UserNo1,UserNo2,UserNo3,UserNo4,ZipCode
+1,0,10,,BOA,,,,,,,,,,,,,,,,,
+2,0,20,,BOA,,,,,,,,,,,,,,,,,
+3,0,30,,BOA,,,,,,,,,,,,,,,,,
+4,0,40,,BOA,,,,,,,,,,,,,,,,,
+5,0,50,,BOA,,,,,,,,,,,,,,,,,
+6,0,60,,BOA,,,,,,,,,,,,,,,,,

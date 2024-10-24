@@ -1,0 +1,5 @@
+DocEntry,Series,Printed,PostingDate,DueDate,DocumentDate,CardCode,CardName,ShipTo,Reference1,Reference2,Remarks,JournalRemarks,PriceList,SalesEmployeeCode,FromWarehouse,CreationDate,UpdateDate,FinancialPeriod,TransactionNumber,DocumentNumber,ContactPerson,DocObjectCode
+DocEntry,Series,Printed,PostingDate,DueDate,DocumentDate,CardCode,CardName,ShipTo,Reference1,Reference2,Remarks,JournalRemarks,PriceList,SalesEmployeeCode,FromWarehouse,CreationDate,UpdateDate,FinancialPeriod,TransactionNumber,DocumentNumber,ContactPerson,DocObjectCode
+1,,,,,,C001,,,,,,,,,,,,,,,,
+2,,,,,,C002,,,,,,,,,,,,,,,,
+3,,,,,,C003,,,,,,,,,,,,,,,,

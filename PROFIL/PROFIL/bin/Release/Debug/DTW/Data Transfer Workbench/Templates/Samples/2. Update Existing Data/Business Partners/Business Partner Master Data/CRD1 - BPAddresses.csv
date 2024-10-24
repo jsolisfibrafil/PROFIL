@@ -1,0 +1,8 @@
+ParentKey,LineNum,AddressName,AddressName2,AddressName3,AddressType,AddrType,Block,BuildingFloorRoom,City,Country,County,FederalTaxID,State,Street,StreetNo,TaxCode,ZipCode
+CardCode,LineNum,AddressName,AddressName2,AddressName3,AddressType,AddrType,Block,BuildingFloorRoom,City,Country,County,FederalTaxID,State,Street,StreetNo,TaxCode,ZipCode
+C001,,Work,,,,,,,NY,US,,,,Fifth Avenue,,,
+C001,,Home,,,,,,,Boston,US,,,,First Avenue,,,
+C002,,Work,,,,,,,Ann Arbor,US,,,,Sourth Univ Street,,,
+C002,,Home,,,,,,,Ann Arbor,US,,,,East Liberty Street,,,
+V001,,Work,,,,,,,LA,US,,,,Star Avenue,,,
+V003,,Home,,,,,,,LA,US,,,,Star Avenue,,,

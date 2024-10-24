@@ -1,0 +1,4 @@
+ParentKey,LineNum,BaseQuantity,ItemNo,ProductionOrderIssueType,Warehouse
+AbsoluteEntry,LineNum,BaseQuantity,ItemNo,ProductionOrderIssueType,Warehouse
+1,,2,LM4029ACA,im_Backflush,1
+1,,1,LM4029APCD,im_Backflush,1

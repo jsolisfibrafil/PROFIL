@@ -1,0 +1,5 @@
+ParentKey,LineNum,PaymentDate
+CardCode,LineNum,PaymentDate
+C001,,4
+C002,,5
+V001,,6

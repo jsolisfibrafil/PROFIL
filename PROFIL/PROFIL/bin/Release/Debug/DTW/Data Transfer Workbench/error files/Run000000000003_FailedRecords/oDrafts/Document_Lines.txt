@@ -1,0 +1,3 @@
+ParentKey	LineNum	ItemCode	ItemDescription	Quantity	Price	Currency	Rate	DiscountPercent	VendorNum	WarehouseCode	ProjectCode	Factor2	Factor3	Factor4	UseBaseUnits	MeasureUnit	UnitsOfMeasurment
+<-----Do not fill this row------->
+1	0	MICA-CALDW		"10,104.515 "						CHIL							

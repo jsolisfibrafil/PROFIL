@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jsolis\\Desktop\\PROFIL\\PROFIL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39AC2B04-8D6E-4B01-856D-44950EC55BF0}|PROFIL\\PROFIL.vbproj|c:\\users\\jsolis\\desktop\\profil\\profil\\profil\\frm_prodmasiva.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{39AC2B04-8D6E-4B01-856D-44950EC55BF0}|PROFIL\\PROFIL.vbproj|solutionrelative:profil\\frm_prodmasiva.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AC2B04-8D6E-4B01-856D-44950EC55BF0}|PROFIL\\PROFIL.vbproj|C:\\Users\\jsolis\\Desktop\\PROFIL\\PROFIL\\profil\\frm_prodmasiva.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{39AC2B04-8D6E-4B01-856D-44950EC55BF0}|PROFIL\\PROFIL.vbproj|solutionrelative:profil\\frm_prodmasiva.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_prodMasiva.vb",
+              "DocumentMoniker": "C:\\Users\\jsolis\\Desktop\\PROFIL\\PROFIL\\PROFIL\\frm_prodMasiva.vb",
+              "RelativeDocumentMoniker": "PROFIL\\frm_prodMasiva.vb",
+              "ToolTip": "C:\\Users\\jsolis\\Desktop\\PROFIL\\PROFIL\\PROFIL\\frm_prodMasiva.vb",
+              "RelativeToolTip": "PROFIL\\frm_prodMasiva.vb",
+              "ViewState": "AgIAAEICAAAAAAAAAAAUwIsCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-14T22:00:26.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_prodMasiva.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jsolis\\Desktop\\PROFIL\\PROFIL\\PROFIL\\frm_prodMasiva.vb",
+              "RelativeDocumentMoniker": "PROFIL\\frm_prodMasiva.vb",
+              "ToolTip": "C:\\Users\\nflores\\Desktop\\PROFIL\\PROFIL\\frm_prodMasiva.vb [Dise\u00F1o]*",
+              "RelativeToolTip": "..\\..\\..\\..\\nflores\\Desktop\\PROFIL\\PROFIL\\frm_prodMasiva.vb [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-14T22:00:17.968Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

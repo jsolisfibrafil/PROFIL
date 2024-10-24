@@ -1,0 +1,4 @@
+ParentKey,LineNum,EndDate,InternalSerialNum,ItemCode,ItemGroup,ItemName,ManufacturerSerialNum,StartDate,TerminationDate
+ContractID,LineNum,EndDate,InternalSerialNum,ItemCode,ItemGroup,ItemName,ManufacturerSerialNum,StartDate,TerminationDate
+C1,0,20100104,L-101,LM4029,,,,20100104,
+C2,0,20100104,L-103,LM4029,,,,20100104,

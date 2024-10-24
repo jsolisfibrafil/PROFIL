@@ -1,0 +1,5 @@
+AgreementNo,AgreementType,AttachmentEntry,BPCode,BPName,BlanketAgreements_ItemsLines,ContactPersonCode,Description,EndDate,Owner,Remarks,RemindTime,RemindUnit,Renewal,StartDate,Status,TerminateDate,UseBPDiscount
+AgreementNo,AgreementType,AttachmentEntry,BPCode,BPName,BlanketAgreements_ItemsLines,ContactPersonCode,Description,EndDate,Owner,Remarks,RemindTime,RemindUnit,Renewal,StartDate,Status,TerminateDate,UseBPDiscount
+1,atSpecific,,C001,,,,,2010-11-27,,,,,,,,,
+2,atSpecific,,C001,,,,,2010-11-28,,,,,,,,,
+3,atSpecific,,C001,,,,,2010-11-29,,,,,,,,,
